@@ -1,0 +1,40 @@
+.u-section-1 {background-image: none; min-height: 684px}
+.u-section-1 .u-layout-wrap-1 {width: calc(((100% - 1140px) / 2) + 1140px); margin: 60px auto 60px 0}
+.u-section-1 .u-layout-cell-1 {background-image: none; min-height: 563px}
+.u-section-1 .u-container-layout-1 {padding: 30px}
+.u-section-1 .u-image-1 {min-height: 563px; background-image: url("images/photo_2020-09-16_15-36-59.jpg"); background-position: 50% 50%}
+.u-section-1 .u-container-layout-2 {padding: 30px 0}
+.u-section-1 .u-layout-cell-3 {min-height: 563px}
+.u-section-1 .u-container-layout-3 {padding: 30px 60px}
+.u-section-1 .u-text-1 {font-size: 2.25rem; font-weight: 700; margin: 0}
+.u-section-1 .u-text-2 {font-size: 1.125rem; font-weight: 300; margin: 30px 0 0}
+.u-section-1 .u-text-3 {line-height: 1.8; font-size: 1.125rem; font-weight: 600; margin: 20px auto 0 0}
+.u-section-1 .u-btn-1 {background-image: none; border-style: none; margin: 20px auto 0 0; padding: 12px 42px 13px} 
+
+@media (max-width: 1199px){ .u-section-1 {min-height: 642px}
+.u-section-1 .u-layout-wrap-1 {width: calc(((100% - 940px) / 2) + 940px)}
+.u-section-1 .u-layout-cell-1 {min-height: 464px}
+.u-section-1 .u-image-1 {min-height: 464px}
+.u-section-1 .u-layout-cell-3 {min-height: 464px}
+.u-section-1 .u-text-3 {font-size: 1rem} }
+
+@media (max-width: 991px){ .u-section-1 {min-height: 520px}
+.u-section-1 .u-layout-wrap-1 {width: calc(((100% - 720px) / 2) + 720px)}
+.u-section-1 .u-layout-cell-1 {min-height: 355px}
+.u-section-1 .u-image-1 {min-height: 355px}
+.u-section-1 .u-layout-cell-3 {min-height: 100px}
+.u-section-1 .u-container-layout-3 {padding-left: 30px; padding-right: 30px}
+.u-section-1 .u-text-2 {font-size: 1rem} }
+
+@media (max-width: 767px){ .u-section-1 {min-height: 801px}
+.u-section-1 .u-layout-wrap-1 {width: calc(((100% - 540px) / 2) + 540px)}
+.u-section-1 .u-layout-cell-1 {min-height: 89px}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-image-1 {min-height: 614px; order: 0}
+.u-section-1 .u-layout-cell-3 {order: 1}
+.u-section-1 .u-container-layout-3 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-1 {min-height: 585px}
+.u-section-1 .u-layout-wrap-1 {width: calc(((100% - 340px) / 2) + 340px)}
+.u-section-1 .u-layout-cell-1 {min-height: 56px}
+.u-section-1 .u-image-1 {min-height: 387px} }
